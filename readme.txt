@@ -5,4 +5,4 @@ Git has mutable index called stage.
 
 git tracks changes.
 
-a new branch
+a new branch is quick & simple
